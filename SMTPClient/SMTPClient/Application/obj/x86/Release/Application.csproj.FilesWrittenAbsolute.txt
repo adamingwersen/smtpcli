@@ -1,0 +1,6 @@
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/obj/x86/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Release/Application.exe
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/obj/x86/Release/Application.exe
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Release/DotComMail.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Release/LogDecoder.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Release/HTMLMake.dll

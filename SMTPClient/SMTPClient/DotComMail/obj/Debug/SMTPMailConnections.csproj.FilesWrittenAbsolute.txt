@@ -1,0 +1,5 @@
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/bin/Debug/DotComMail.pdb
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/bin/Debug/DotComMail.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/obj/Debug/DotComMail.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/obj/Debug/DotComMail.pdb

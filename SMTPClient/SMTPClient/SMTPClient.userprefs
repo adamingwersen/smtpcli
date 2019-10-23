@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B311253D-2869-4EC0-B1F8-E7C55AC94F85}|Default" StartupItem="Application/Application.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotComMail/DotComMail.cs">
+    <Files>
+      <File FileName="Application/Program.cs" Line="14" Column="5" />
+      <File FileName="LogDecoder/LogReader.cs" Line="1" Column="1" />
+      <File FileName="LogDecoder/IFileReader.cs" Line="1" Column="1" />
+      <File FileName="LogDecoder/ClientCredentials.cs" Line="19" Column="4" />
+      <File FileName="HTMLMake/Forms.cs" Line="69" Column="1" NotebookId="1" />
+      <File FileName="HTMLMake/Table.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="HTMLMake/TextMapper.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="DotComMail/DotComMail.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Application PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

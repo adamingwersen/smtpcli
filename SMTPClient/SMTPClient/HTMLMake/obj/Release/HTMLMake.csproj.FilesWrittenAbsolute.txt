@@ -1,0 +1,3 @@
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/HTMLMake/obj/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/HTMLMake/bin/Release/HTMLMake.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/HTMLMake/obj/Release/HTMLMake.dll

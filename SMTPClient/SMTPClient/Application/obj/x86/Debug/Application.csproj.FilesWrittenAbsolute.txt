@@ -1,0 +1,11 @@
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/Application.pdb
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/Application.exe
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/obj/x86/Debug/Application.exe
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/obj/x86/Debug/Application.pdb
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/DotComMail.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/DotComMail.pdb
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/LogDecoder.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/LogDecoder.pdb
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/HTMLMake.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/Application/bin/Debug/HTMLMake.pdb

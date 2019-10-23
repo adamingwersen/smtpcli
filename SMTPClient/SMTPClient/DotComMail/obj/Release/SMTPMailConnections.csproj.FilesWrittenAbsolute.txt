@@ -1,0 +1,3 @@
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/obj/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/bin/Release/DotComMail.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/DotComMail/obj/Release/DotComMail.dll

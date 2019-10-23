@@ -1,0 +1,3 @@
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/LogDecoder/obj/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/LogDecoder/bin/Release/LogDecoder.dll
+/home/adam/projects/SMTPClient/SMTPClient/SMTPClient/LogDecoder/obj/Release/LogDecoder.dll
